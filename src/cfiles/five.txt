@@ -1,1 +1,2 @@
 five
+console.log("five");
